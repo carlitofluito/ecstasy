@@ -2,7 +2,7 @@
 
 I explained Leri what had just happened. I was doubtful about taken it. Was it the moment? Was it the day? Was it the right people? What will be the effects?
 
-**"You will dance and fill happy, with a lot of energy."** But that is how I always am. 
+*"You will dance and fill happy, with a lot of energy."* But that is how I always am. 
 
 The dealer came next to us, and we had a brief conversation. Standing there, a guy I have talked before approached us and asked whether we knew someone selling “ecstasy”. I don’t know why he asked me but fuck I knew one. I had just met him, and he was standing next to me. I told both to talk with each other. This is what could be considered as synchronicity.
 
