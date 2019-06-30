@@ -1,0 +1,7 @@
+book_filename: "ecstasyCarlitoFluito"
+chapter_name: ""
+repo: https://github.com/carlitofluito/ecstasy
+output_dir: docs
+rmd_files: ["index.Rmd", "01-dealer.Rmd", "02-doubts.Rmd"]
+clean: [packages.bib, bookdown.bbl]
+new_session: yes
